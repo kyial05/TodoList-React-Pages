@@ -1,0 +1,105 @@
+.enter-text {
+  text-decoration: none;
+  cursor: pointer;
+  width: 100px;
+  color: rgb(225, 36, 36);
+  position: absolute;
+  justify-self: center;
+  align-self: center;
+  margin-left: 450px;
+  margin-top: 200px;
+  font-family: cursive;
+  font-size: 40px;
+}
+.main {
+  display: flex;
+}
+.sun1 {
+  width: 70px;
+  height: 70px;
+  animation-name: rotate1;
+  animation-duration: 40s;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+@keyframes rotate1 {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(1500deg);
+  }
+}
+.sun2 {
+  width: 70px;
+  height: 70px;
+  animation-name: rotate2;
+  animation-duration: 40s;
+  margin-top: 170px;
+  margin-left: 150px;
+}
+@keyframes rotate2 {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(-1500deg);
+  }
+}
+.sun3 {
+  width: 70px;
+  height: 70px;
+  animation-name: rotate3;
+  animation-duration: 40s;
+  margin-top: 390px;
+  margin-left: -200px;
+}
+@keyframes rotate3 {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(1500deg);
+  }
+}
+.sun4 {
+  width: 70px;
+  height: 70px;
+  animation-name: rotate4;
+  animation-duration: 40s;
+  margin-top: 400px;
+  margin-left: 200px;
+}
+@keyframes rotate4 {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(1500deg);
+  }
+}
+.sun5 {
+  width: 70px;
+  height: 70px;
+  animation-name: rotate5;
+  animation-duration: 40s;
+  margin-top: 40px;
+  margin-left: 50px;
+}
+@keyframes rotate5 {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(-1500deg);
+  }
+}
+@media(max-width: 500px){
+body{
+  background: rgb(247, 181, 181);
+}
+.enter-text{
+  margin-left: 150px;
+  margin-top: 240px;
+}
+}

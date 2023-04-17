@@ -1,0 +1,121 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+.done {
+  text-decoration: line-through;
+  opacity: 0.5;
+}
+.doneIcon {
+  width: 20px;
+  height: 20px;
+}
+.backIcon {
+  width: 20px;
+  height: 20px;
+}
+.delIcon {
+  width: 20px;
+  height: 20px;
+}
+.text_place {
+  width: 400px;
+  font-size: 20px;
+  background: none;
+  border: none;
+}
+.wrapper {
+  display: flex;
+  justify-content: center;
+  background: inherit;
+  height: 50px;
+  width: 400px;
+  background: rgba(90, 96, 125, 0.192);
+  backdrop-filter: blur(4px);
+  border: 1px solid rgba(73, 76, 104, 0.2);
+  border-radius: 10px;
+}
+.todo-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 10px;
+  width: 400px;
+  background: inherit;
+  background: rgba(90, 96, 125, 0.192);
+  backdrop-filter: blur(4px);
+  border: 1px solid rgba(73, 76, 104, 0.2);
+  border-radius: 10px;
+  margin-bottom: 7px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-shadow: white 0px 0px 2px;
+}
+.wr {
+  display: flex;
+  width: 400px;
+  margin-bottom: 10px;
+  padding-left: 20px;
+}
+.btn_ADD {
+  display: flex;
+  width: 20px;
+  height: 20px;
+  margin-right: 20px;
+}
+.task {
+  margin-top: 4px;
+}
+/* new */
+.container {
+  display: flex;
+  height: 100px;
+  width: 500px;
+  justify-self: flex-start;
+  margin-top: 10px;
+}
+
+svg {
+  display: block;
+  font: 300px "Montserrat";
+}
+
+.text-copy {
+  fill: none;
+  stroke: white;
+  stroke-dasharray: 6% 29%;
+  stroke-width: 10px;
+  stroke-dashoffset: 0%;
+  animation: stroke-offset 5.5s infinite linear;
+}
+
+.text-copy:nth-child(1) {
+  stroke: #542fa5;
+  animation-delay: -1;
+}
+
+.text-copy:nth-child(2) {
+  stroke: #df955c;
+  animation-delay: -2s;
+}
+
+.text-copy:nth-child(3) {
+  stroke: #eb265e;
+  animation-delay: -3s;
+}
+
+.text-copy:nth-child(4) {
+  stroke: #fb30aa;
+  animation-delay: -4s;
+}
+
+.text-copy:nth-child(5) {
+  stroke: #fdb731;
+  animation-delay: -5s;
+}
+
+@keyframes stroke-offset {
+  100% {
+    stroke-dashoffset: -35%;
+  }
+}
