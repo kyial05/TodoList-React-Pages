@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TodoList-React-Pages/static/css/main.70e54267.css",
-    "main.js": "/TodoList-React-Pages/static/js/main.7a92a8aa.js",
+    "main.js": "/TodoList-React-Pages/static/js/main.2335839a.js",
     "static/media/fl2.png": "/TodoList-React-Pages/static/media/fl2.6ff38b5652be1baec266.png",
     "static/media/fl4.png": "/TodoList-React-Pages/static/media/fl4.ed154c1b8f77cc43156d.png",
     "static/media/fl1.png": "/TodoList-React-Pages/static/media/fl1.aa6d3b601c5cd3e73a45.png",
@@ -13,10 +13,10 @@
     "static/media/back.png": "/TodoList-React-Pages/static/media/back.fb2ff6a46a588a1a5c98.png",
     "index.html": "/TodoList-React-Pages/index.html",
     "main.70e54267.css.map": "/TodoList-React-Pages/static/css/main.70e54267.css.map",
-    "main.7a92a8aa.js.map": "/TodoList-React-Pages/static/js/main.7a92a8aa.js.map"
+    "main.2335839a.js.map": "/TodoList-React-Pages/static/js/main.2335839a.js.map"
   },
   "entrypoints": [
     "static/css/main.70e54267.css",
-    "static/js/main.7a92a8aa.js"
+    "static/js/main.2335839a.js"
   ]
 }
