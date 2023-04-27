@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.fcce976e.css",
-    "main.js": "/static/js/main.7b646968.js",
-    "static/media/fl2.png": "/static/media/fl2.6ff38b5652be1baec266.png",
-    "static/media/fl4.png": "/static/media/fl4.ed154c1b8f77cc43156d.png",
-    "static/media/fl1.png": "/static/media/fl1.aa6d3b601c5cd3e73a45.png",
-    "static/media/fl3.png": "/static/media/fl3.0c5ca5e6a6f038f6592f.png",
-    "static/media/bg2.jpg": "/static/media/bg2.5b13791241c5b3576036.jpg",
-    "static/media/fl5.png": "/static/media/fl5.4782138640a395b84c0c.png",
-    "static/media/add.png": "/static/media/add.2bc5059cd65fbf614026.png",
-    "static/media/done.png": "/static/media/done.cbb1ab08d63c40153e7b.png",
-    "static/media/back.png": "/static/media/back.fb2ff6a46a588a1a5c98.png",
-    "index.html": "/index.html",
-    "main.fcce976e.css.map": "/static/css/main.fcce976e.css.map",
-    "main.7b646968.js.map": "/static/js/main.7b646968.js.map"
+    "main.css": "/TodoList-React-Pages/static/css/main.1a3b73cd.css",
+    "main.js": "/TodoList-React-Pages/static/js/main.e03f7168.js",
+    "static/media/fl2.png": "/TodoList-React-Pages/static/media/fl2.6ff38b5652be1baec266.png",
+    "static/media/fl4.png": "/TodoList-React-Pages/static/media/fl4.ed154c1b8f77cc43156d.png",
+    "static/media/fl1.png": "/TodoList-React-Pages/static/media/fl1.aa6d3b601c5cd3e73a45.png",
+    "static/media/fl3.png": "/TodoList-React-Pages/static/media/fl3.0c5ca5e6a6f038f6592f.png",
+    "static/media/bg2.jpg": "/TodoList-React-Pages/static/media/bg2.5b13791241c5b3576036.jpg",
+    "static/media/fl5.png": "/TodoList-React-Pages/static/media/fl5.4782138640a395b84c0c.png",
+    "static/media/add.png": "/TodoList-React-Pages/static/media/add.2bc5059cd65fbf614026.png",
+    "static/media/done.png": "/TodoList-React-Pages/static/media/done.cbb1ab08d63c40153e7b.png",
+    "static/media/back.png": "/TodoList-React-Pages/static/media/back.fb2ff6a46a588a1a5c98.png",
+    "index.html": "/TodoList-React-Pages/index.html",
+    "main.1a3b73cd.css.map": "/TodoList-React-Pages/static/css/main.1a3b73cd.css.map",
+    "main.e03f7168.js.map": "/TodoList-React-Pages/static/js/main.e03f7168.js.map"
   },
   "entrypoints": [
-    "static/css/main.fcce976e.css",
-    "static/js/main.7b646968.js"
+    "static/css/main.1a3b73cd.css",
+    "static/js/main.e03f7168.js"
   ]
 }
